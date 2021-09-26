@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @wilby-mj; 
-  a footballer who got lost on the internet.
+- 👋 Hi, I’m William; 
+  a footballer who got lost on the internet. Currently building the 
 
 - 👀 I’m interested in;
-  Building software that people actually use.
+  Building software that people actually use. As a web developer my current stack is (Bootstrap, Vue.js, Express.js, Django and MongoDB)
   when i'm not doing this, you can probably find me playing football somewhere or trying to make 'wavy' stuff for the internet.
 
 - 🌱 I’m currently learning;
