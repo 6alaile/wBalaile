@@ -32,8 +32,8 @@
   anything really.. fashion shoots, music videos, recording adlibs, mashing buttons to apps, coffee. literally down for anything.
 
 - 📫 How to reach me;
-<br>
-@wilby_mj on twitter & instagram
+  <br>
+  @wilby_mj on twitter & instagram
 
 <!---
 wilby-mj/wilby-mj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
