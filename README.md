@@ -16,17 +16,23 @@
 
 - 👀 I’m interested in;
   Building software that people actually use.
+  <br>
   Blockchain and Web3.
+  <br>
   When i'm not doing this, you can probably find me playing football somewhere or trying to make 'wavy' stuff for the internet.
 
 - 🌱 I’m currently learning;
+  <br>
   That programming takes time and making mistakes is part of the process. (read JavaScript)
+  <br>
   How to run a freelance business.
 
 - 💞️ I’m looking to collaborate on;
+  <br>
   anything really.. fashion shoots, music videos, recording adlibs, mashing buttons to apps, coffee. literally down for anything.
 
 - 📫 How to reach me;
+<br>
 @wilby_mj on twitter & instagram
 
 <!---
