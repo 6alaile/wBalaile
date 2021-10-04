@@ -15,6 +15,7 @@
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>
 
 - 👀 I’m interested in;
+  <br>
   Building software that people actually use.
   <br>
   Blockchain and Web3.
