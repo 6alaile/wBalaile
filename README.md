@@ -1,8 +1,12 @@
-- 👋 Hi, I’m William; 
-  a footballer who got lost on the internet.
+### 👋🏾 Hi, I’m William; 
+  - a footballer who got lost on the internet.
+  - Web Developer.
   <br>
-  Current stack:
+  📍 Dar es Salaam, Tanzania.
   <br>
+  <br>
+ 
+### 👨🏾‍💻 Tools and Technologies;
   Front End Development
   <img alt="HTML5"  src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white"/>
   <img alt="CSS3"  src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white"/>
@@ -14,27 +18,29 @@
   <img alt="Express.js"  src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=flat-square"/>
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>
 
-- 👀 I’m interested in;
-  <br>
-  Building software that people actually use.
-  <br>
-  Blockchain and Web3.
-  <br>
-  When i'm not doing this, you can probably find me playing football somewhere or trying to make 'wavy' stuff for the internet.
+### 👀 I’m interested in;
+  - Building software that people actually use.
+  - Blockchain and Web3.
+  - When i'm not doing this, you can probably find me playing football somewhere or trying to make 'wavy' stuff for the internet.
 
-- 🌱 I’m currently learning;
+### 🌱 I’m currently learning;
+  - That programming takes time and making mistakes is part of the process. (read JavaScript)
   <br>
-  That programming takes time and making mistakes is part of the process. (read JavaScript)
-  <br>
-  How to run a freelance business.
+  - How to run a business
+  <img alt="Kiganjani Co." src="https://img.shields.io/badge/Kiganjani%20Co.-lightgrey?&style=flat-square"> 
+  <a href="https://github.com/kiganjani-co"/> GitHub </a>, 
+  <a href="https://instagram.com/kiganjani.co"> Instagram </a>, 
+  <a href="https://facebook.com/KiganjaniTechCo/"> Facebook </a>
 
-- 💞️ I’m looking to collaborate on;
-  <br>
-  anything really.. fashion shoots, music videos, recording adlibs, mashing buttons to apps, coffee. literally down for anything.
+### 🤝 I’m looking to collaborate on;
+  - anything really.. fashion shoots, music videos, recording adlibs, mashing buttons to apps, coffee. literally down for anything.
 
-- 📫 How to reach me;
+### 📫 How to reach me;
+  - @wilby_mj on twitter & instagram
+  - send me an email
   <br>
-  @wilby_mj on twitter & instagram
+  
+  
 
 <!---
 wilby-mj/wilby-mj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
