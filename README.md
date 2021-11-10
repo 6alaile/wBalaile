@@ -24,13 +24,8 @@
   - When i'm not doing this, you can probably find me playing football somewhere or trying to make 'wavy' stuff for the internet.
 
 ### 🌱 I’m currently learning;
-  - programming takes time and making mistakes is part of the process. (read JavaScript)
-  
-  How to run a business. 
-  <img alt="Kiganjani Co." src="https://img.shields.io/badge/Kiganjani%20Co.-lightgrey?&style=flat-square"> 
-  <a href="https://github.com/kiganjani-co"> GitHub </a>, 
-  <a href="https://instagram.com/kiganjani.co"> Instagram </a>, 
-  <a href="https://facebook.com/KiganjaniTechCo/"> Facebook </a>
+  - That writing code is not enough to be a programmer.
+  - cs50x
 
 ### 🤝 I’m looking to collaborate on;
   - anything really.. fashion shoots, music videos, recording adlibs, mashing buttons to apps, coffee. literally down for anything.
