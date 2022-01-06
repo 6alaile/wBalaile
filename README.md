@@ -24,8 +24,9 @@
   - When i'm not doing this, you can probably find me playing football somewhere or trying to make 'wavy' stuff for the internet.
 
 ### 🌱 I’m currently learning;
-  - That writing code is not enough to be a programmer.
-  - cs50x
+  - That programming is not enough to become a freelance web developer.
+  - Webflow.
+  - UX & UI.
 
 ### 🤝 I’m looking to collaborate on;
   - anything really.. fashion shoots, music videos, recording adlibs, mashing buttons to apps, coffee. literally down for anything.
