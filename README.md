@@ -7,12 +7,14 @@
  
 ### 👨🏾‍💻 Tools and Technologies;
   <h4>Front End Development</h4>
+  <br>
   <img alt="HTML5"  src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white"/>
   <img alt="CSS3"  src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white"/>
   <img alt="JavaScript"  src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="Vue.js"  src="https://img.shields.io/badge/Vue.js%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D"/>
   <br>
   <h4>Back End Development</h4>
+  <br>
   <img alt="NodeJS"  src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white">
   <img alt="Express.js"  src="https://img.shields.io/badge/Express.js-404D59?style=flat-square"/>
   <img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white">
