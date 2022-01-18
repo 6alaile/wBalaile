@@ -6,8 +6,7 @@
   <br>
  
 ### 👨🏾‍💻 Tools and Technologies;
-  <h4>Front End</h4>
-  <br>
+  <h4>Front-End:</h4>
   <span>
     <img alt="HTML5"  src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white"/>
     <img alt="CSS3"  src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white"/>
@@ -15,8 +14,7 @@
     <img alt="Vue.js"  src="https://img.shields.io/badge/Vue.js%20-%2335495e.svg?&style=flat-square&logo=vue.js&logoColor=%234FC08D"/>
   </span>
   <br>
-  <h4>Back End</h4>
-  <br>
+  <h4>Back-End:</h4>
   <span>
     <img alt="NodeJS"  src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white">
     <img alt="Express.js"  src="https://img.shields.io/badge/Express.js-404D59?style=flat-square"/>
