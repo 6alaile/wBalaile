@@ -19,6 +19,7 @@
     <img alt="NodeJS"  src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white">
     <img alt="Express.js"  src="https://img.shields.io/badge/Express.js-404D59?style=flat-square"/>
     <img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white">
+      <br>
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%23323330.svg?&style=flat-square&logo=mysql&logoColor=yellow"/>
   <span>
