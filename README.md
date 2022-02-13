@@ -5,7 +5,7 @@
   <br>
 
 ### 📫 How to reach me;
-  - @wilby_mj on twitter & instagram
+  - @wilby_mj on <a href="https://twitter.com/wilby_mj">twitter</a> & <a href="https://inistagram.com/wilby_mj">instagram</a>
   - send me an email wbalaile@kiganjani.co.tz
   <br>
 
