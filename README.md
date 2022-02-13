@@ -3,8 +3,12 @@
   <br>
   📍 Dar es Salaam, Tanzania.  
   <br>
+
+### 📫 How to reach me;
+  - @wilby_mj on twitter & instagram
+  - send me an email wbalaile@kiganjani.co.tz
   <br>
- 
+
 ### 👨🏾‍💻 Tools and Technologies;
   <h4>Front-End:</h4>
   <span>
@@ -36,13 +40,6 @@
 
 ### 🤝 I’m looking to collaborate on;
   - anything really.. fashion shoots, music videos, recording adlibs, mashing buttons to apps, coffee. literally down for anything.
-
-### 📫 How to reach me;
-  - @wilby_mj on twitter & instagram
-  - send me an email wbalaile@kiganjani.co.tz
-  <br>
-  
-  
 
 <!---
 wilby-mj/wilby-mj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
