@@ -7,7 +7,7 @@
   - @wilby_mj on <a href="https://twitter.com/wilby_mj">twitter</a> & <a href="https://instagram.com/wilby_mj">instagram</a>
   - send me an email wbalaile@kiganjani.co.tz
 
-###  Tech Stack;
+### 🛠 Tech Stack;
 <table>
 <thead>
   <tr>
