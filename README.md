@@ -15,11 +15,12 @@
     <th>Back End</th>
     <th>Database</th>
     <th>Hosting</th>
+    <th>OS</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2">
+    <td rowspan="3">
       <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
         <br>
       <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
@@ -32,7 +33,7 @@
     <td>
       <img alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
     </td>
-    <td rowspan="2">
+    <td rowspan="3">
       <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&amp;logo=microsoft-azure&amp;logoColor=white">
     </td>
   </tr>
@@ -44,13 +45,19 @@
       <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     </td>
   </tr>
+  <tr>
+    <td>
+      <img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black">
+    </td>
+    <td></td>
+  </tr>
 </tbody>
 </table>
   
 ### 👀 I’m interested in;
   - Building software that people actually use.
-  - Blockchain and Web3.
-  - When i'm not doing this, you can probably find me playing football somewhere or trying to make 'wavy' stuff for the internet.
+  - Blockchain and web3.
+  - Playing football somewhere or trying to make 'wavy' stuff for the internet.
 
 ### 🌱 I’m currently learning;
   - That programming is not enough to become a freelance web developer.
