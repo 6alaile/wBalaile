@@ -15,7 +15,6 @@
     <th>Back End</th>
     <th>Database</th>
     <th>Hosting</th>
-    <th>OS</th>
   </tr>
 </thead>
 <tbody>
