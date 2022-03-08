@@ -48,7 +48,9 @@
     <td>
       <img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black">
     </td>
-    <td></td>
+    <td>
+      <img alt="Binance" src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white">
+    </td>
   </tr>
 </tbody>
 </table>
