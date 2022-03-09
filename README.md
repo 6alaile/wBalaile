@@ -15,6 +15,7 @@
     <th>Back End</th>
     <th>Database</th>
     <th>Hosting</th>
+    <th>No Code</th>
   </tr>
 </thead>
 <tbody>
@@ -34,6 +35,9 @@
     </td>
     <td rowspan="3">
       <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&amp;logo=microsoft-azure&amp;logoColor=white">
+    </td>
+    <td rowspan="3">
+      <img alt="Shopify" src="https://img.shields.io/badge/shopify-8DB543?style=for-the-badge&logo=Shopify&logoColor=white">
     </td>
   </tr>
   <tr>
