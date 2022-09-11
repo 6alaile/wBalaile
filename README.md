@@ -1,4 +1,4 @@
-### 👋🏾 Hi, I’m William; 
+### 👋🏾 Hi, I’m Mujuni; 
   a footballer who got lost on the internet, learned to write code and now makes pretty cool stuff for the internet.
   <br>
   📍 Dar es Salaam, Tanzania.  
