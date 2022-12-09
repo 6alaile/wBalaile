@@ -4,8 +4,8 @@
   📍 Dar es Salaam, Tanzania.  
 
 ### 📫 How to reach me;
-  - @wilby_mj on <a href="https://instagram.com/wilby_mj">instagram</a>
-  - send me an email wbalaile@kiganjani.co.tz
+  - Discord
+  - WhatsApp
 
 ### 🛠 Tech Stack;
 <table>
