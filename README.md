@@ -67,12 +67,13 @@
   - Playing football somewhere or trying to make 'wavy' stuff for the internet.
 
 ### 🌱 I’m currently learning;
-  - That programming is not enough to become a freelance web developer.
-  - Webflow.
-  - UX & UI.
+  - I should probably post here more often.
+  - How to stay on top of things.
+  - About tying knots.
 
 ### 🤝 I’m looking to collaborate on;
   - anything really.. fashion shoots, music videos, recording adlibs, mashing buttons to apps, coffee. literally down for anything.
+  - a primarily online basis.
 
 <!---
 wilby-mj/wilby-mj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
